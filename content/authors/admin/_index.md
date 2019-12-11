@@ -80,8 +80,8 @@ user_groups:
 ---
 I am the Archivist-Historian for the [Consensual Non-Monogamies](https://www.div44cnm.org/) taskforce of the [American Psychological Association](https://www.apadivisions.org/division-44/leadership/task-forces/index). I also work as a graduate archivist at the Kinsey Institute Library and Special Collections, where I am currently working on a revisions to [Sexual Nomenclature, A Thesaurus](https://www.worldcat.org/title/sexual-nomenclature-a-thesaurus/oclc/2932670) including a linked data version.
 
-Additionally, I work as a research/project assistant with <a href="https://marikacifor.com">[Dr. Marika Cifor](https://marikacifor.com) and [Dr. Robert D. Montoya](http://robertdmontoya.com/) on a project called [Classifying, Documenting, and Preserving Human Sexuality at the Kinsey Institute](https://marikacifor.com/research-2/data-health-and-bodies-and-embodiment/).
+Additionally, I work as a research/project assistant with [Dr. Marika Cifor](https://marikacifor.com) and [Dr. Robert D. Montoya](http://robertdmontoya.com/) on a project called [Classifying, Documenting, and Preserving Human Sexuality at the Kinsey Institute](https://marikacifor.com/research-2/data-health-and-bodies-and-embodiment/).
 
 I am currently especially interested in histories of sexuality, censorship, and queer theory, and in applying these histories to knowledge organization, radical/queer classification, and archives.
 
-In the past, I have been a volunteer moderator for the world’s largest academic history forum, AskHistorians(https://www.reddit.com/r/AskHistorians/), where I recorded and edited 50 episodes of The AskHistorians Podcast(https://askhistorians.libsyn.com) and presented on public history. 
+In the past, I have been a volunteer moderator for the world’s largest academic history forum, [AskHistorians](https://www.reddit.com/r/AskHistorians/), where I recorded and edited 50 episodes of [The AskHistorians Podcast](https://askhistorians.libsyn.com) and presented on public history.

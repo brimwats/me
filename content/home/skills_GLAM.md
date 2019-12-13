@@ -25,6 +25,12 @@ subtitle = ""
   name = "Digital Archiving"
 
 [[feature]]
+  icon = "link"
+  icon_pack = "fas"
+  name = "Linked Data"
+  description = "Proficient"
+
+[[feature]]
   icon = "microphone"
   icon_pack = "fas"
   name = "Oral Histories"
@@ -53,3 +59,4 @@ subtitle = ""
   description = "reddit, Twitter, Facebook, Canva, Wordpress)"
 
 +++
+

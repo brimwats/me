@@ -19,13 +19,24 @@ subtitle = ""
 [[feature]]
   icon = "award"
   icon_pack = "fas"
+  name = "2020 Janice Kilner Egloff Scholarship"
+  description = "Indiana University Bloomington"
+
+[[feature]]
+  icon = "award"
+  icon_pack = "fas"
+  name = "2020 Digital Pedagogy Lab Fellow"
+
+[[feature]]
+  icon = "award"
+  icon_pack = "fas"
   name = "2020 Datathon Award"
   description = "ArchivesUnleashed & Columbia University Libraries"
   
 [[feature]]
   icon = "star"
   icon_pack = "fas"
-  name = "2019-2020 Graduate Fellow"
+  name = "2019-20 Graduate Fellow"
   description = "Kinsey Institute"
   
 [[feature]]

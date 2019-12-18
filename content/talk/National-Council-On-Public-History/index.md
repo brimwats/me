@@ -1,30 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Manwhore Podcast"
-event:
-event_url:
-location:
-address:
-  street:
-  city:
-  region:
-  postcode:
-  country:
+title: "NCPH - Democratizing the Digital Humanities?: The AskHistorians Experiment in User-Driven Public History"
+event: National Council on Public History
+event_url: https://ncph.org/conference/2017-annual-meeting/speakers/
+location: Indianapolis, Indiana, USA
 summary:
-abstract:
+abstract: With over 520,000 subscribers, the Reddit community AskHistorians (www.reddit.com/r/AskHistorians) is the Internet’s largest public history education forum. In this session, attendees will learn how to leverage a large user base to cultivate an audience of people in crucial but difficult-to-reach demographics. Through problem-solving games and a concurrent forum event, attendees will have the chance not just to observe but to participate in one of the most innovative experiments in public history on the Internet. #s40
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-12-17T15:57:59-05:00
-date_end: 2019-12-17T15:57:59-05:00
-all_day: false
+date: 2017-04-20T10:30:00-05:00
 
-# Schedule page publish date (NOT talk date).
-publishDate: 2019-12-17T15:57:59-05:00
-
-authors: []
-tags: []
+authors: [admin]
+tags: [AskHistorians, twitterstorians, NCPH, Presentation]
 
 # Is this a featured talk? (true/false)
 featured: false

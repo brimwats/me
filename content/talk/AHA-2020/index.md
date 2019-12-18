@@ -1,30 +1,28 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Wbur Boston"
-event:
-event_url:
-location:
+title: "Sexual Behavior of the American Media: Alfred Kinsey and News of the Sexual Revolution"
+event: American Historical Association
+event_url: https://aha.confex.com/aha/2020/webprogram/Session20654.html
+location: Morgan Room (New York Hilton, Second Floor)
 address:
-  street:
-  city:
-  region:
+  street: 
+  city: New York City
+  region: New York
   postcode:
-  country:
+  country: USA
 summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-12-17T15:57:22-05:00
-date_end: 2019-12-17T15:57:22-05:00
-all_day: false
+date: 2020-01-04T13:30:00-05:00
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-12-17T15:57:22-05:00
+publishDate: 2019-12-18T16:10:23-05:00
 
-authors: []
-tags: []
+authors: [admin]
+tags: [Kinsey Institute, Alfred Kinsey, History of Sexuality, book history]
 
 # Is this a featured talk? (true/false)
 featured: false

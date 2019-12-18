@@ -25,7 +25,7 @@ subtitle = ""
 [[feature]]
   icon = "award"
   icon_pack = "fas"
-  name = "2020 Digital Pedagogy Lab Fellow"
+  name = "2020 Digital Pedagogy Lab Fellowship"
 
 [[feature]]
   icon = "award"

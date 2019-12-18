@@ -34,7 +34,7 @@ education:
     institution: Indiana University Bloomington
     year: 2020
   - course: Master of Art, History and Culture
-    institution: Massachusetts Institute of Technology
+    institution: Drew University
     year: 2013
   - course: Bachelor of Art, English
     institution: Keene State College

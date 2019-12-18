@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "images"
   icon_pack = "fas"
-  name = "Omeka + Scalar"
+  name = "Omeka"
   description = "Classic & Semantic"
   
 [[feature]]

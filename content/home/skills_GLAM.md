@@ -19,10 +19,12 @@ subtitle = ""
   icon_pack = "fas"
   name = "Archiving"
   
+  
 [[feature]]
   icon = "file-archive"
   icon_pack = "fas"
   name = "Digital Archiving"
+  description = " Omeka, Scalar, ArchivesSpace"
 
 [[feature]]
   icon = "link"

@@ -11,6 +11,7 @@ abstract: This presentation is the first step in an answer to Emily Drabinski’
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2019-09-04T15:56:58-05:00
+all_day: true
 
 authors: [admin]
 tags: [queer digital archives, linked data, presentation, IUB, Homosaurus, HomoIT]

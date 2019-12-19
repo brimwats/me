@@ -11,6 +11,7 @@ abstract: Learn more [here](https://www.historians.org/publications-and-director
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2016-01-07T15:30:00-05:00
+all_day: true
 
 authors: [admin]
 tags: [AskHistorians, AmericanHistoricalAssociation, twitterstorians, Presentation]

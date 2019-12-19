@@ -10,6 +10,7 @@ abstract: It is no longer controversial to point out that erotica and pornograph
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2019-07-18T14:00:00-05:00
+all_day: true
 
 authors: [admin]
 tags: [book history, history of sexuality, Steven Marcus, Kinsey Institute, Presentations]

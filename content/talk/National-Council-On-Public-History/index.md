@@ -11,6 +11,8 @@ abstract: With over 520,000 subscribers, the Reddit community AskHistorians (www
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2017-04-20T10:30:00-05:00
+all_day: true
+
 
 authors: [admin]
 tags: [AskHistorians, twitterstorians, NCPH, Presentation]

@@ -17,6 +17,7 @@ abstract: This paper offers a solution to a problem that has plagued information
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2019-10-04
+all_day: true
 #date_end: 2019-12-17T15:45:42-05:00
 #all_day: false
 

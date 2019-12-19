@@ -5,7 +5,7 @@ title: "AskHistorians Podcast"
 event:
 event_url: https://askhistorians.libsyn.com/
 summary: For a several years, I was the co-host and CFO of the [AskHistorians Podcast](https://askhistorians.libsyn.com/). 
-abstract: abstract: "Here is a list of all the oral histories and interviews I did for [The AskHistorians Podcast](https://askhistorians.libsyn.com/):
+abstract: "Here is a list of all the oral histories and interviews I did for [The AskHistorians Podcast](https://askhistorians.libsyn.com/):
 
 * [AskHistorians Podcast 082 – The European Armoring Industry and Techniques 1300-1600](https://askhistorians.libsyn.com/askhistorians-podcast-082-the-european-armoring-industry-and-techniques-1300-1600)
 

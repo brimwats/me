@@ -18,6 +18,7 @@ subtitle = ""
   icon = "archive"
   icon_pack = "fas"
   name = "Archiving"
+  description = "Paper, photo, born-digital."
   
   
 [[feature]]
@@ -25,6 +26,11 @@ subtitle = ""
   icon_pack = "fas"
   name = "Digital Archiving"
   description = " Omeka, Scalar, ArchivesSpace"
+
+[[feature]]
+  icon = "search"
+  icon_pack = "fas"
+  name = "Finding Aids"
 
 [[feature]]
   icon = "link"

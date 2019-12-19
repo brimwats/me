@@ -24,6 +24,12 @@ subtitle = ""
   icon = "microsoft"
   icon_pack = "fab"
   name = "Microsoft Office"
+
+[[feature]]
+  icon = "google"
+  icon_pack = "fab"
+  name = "Online Collaboration Software"
+  description = "Google Documents, Prezi, etc. "
   
 [[feature]]
   icon = "graduation-cap"

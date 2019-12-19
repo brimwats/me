@@ -19,7 +19,7 @@ subtitle = ""
   icon = "markdown"
   icon_pack = "fab"
   name = "Markdown"
-  description = "expert"
+  description = "Expert"
   
 [[feature]]
   icon = "code"
@@ -31,7 +31,13 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Basic"    
+  description = "Basic"
+
+[[feature]]
+  icon = "html5"
+  icon_pack = "fab"
+  name = "HTML & CSS"
+  description = "Basic to Intermediate"     
 
 [[feature]]
   icon = "gem"
@@ -42,8 +48,8 @@ subtitle = ""
 [[feature]]
   icon = "lightbulb"
   icon_pack = "far"
-  name = "LAMP"
-  description = "LAMP Server"
+  name = "LAMP Servers"
+  description = "Intermediate"
 
 [[feature]]
   icon = "database"

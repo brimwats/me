@@ -8,6 +8,7 @@ authors: [admin]
 tags: [etymology, history, sexuality, gender, sexuality, MORGAI (Marginalized Orientations, Relationships, Gender identities, And Intersex)]
 categories: [blog post, historical]
 date: 2019-10-16T09:22:55-05:00
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -38,11 +39,11 @@ While some (quite silly) people declaim this sort of \& 'performative language' 
 
 Dictionary.com does note its very recent history
 
-![a screenshot of Dictionary.com's page here https://www.dictionary.com/e/gender-sexuality/folx/](/me/public/img/Annotation.png)
+![a screenshot of Dictionary.com's page here https://www.dictionary.com/e/gender-sexuality/folx/](Annotation.png)
 
 This history is also copied here on Radical Copyeditors:
 
-[!RadicalCopyEditor on the word Folx](/me/static/img/RadicalCopyeditorREFolx.jpg)
+![RadicalCopyEditor on the word Folx](RadicalCopyeditorREFolx.jpg)
 
 These both point to a more recent history, but the term is actually older, originating from the BiNet and GirlFags BBSes, as WordSpy most accurately documents:
 

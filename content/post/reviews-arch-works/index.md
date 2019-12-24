@@ -8,6 +8,7 @@ authors: [admin]
 tags: [reviews]
 categories: [blog, reviews]
 date: 2019-03-30T11:28:21+00:00
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

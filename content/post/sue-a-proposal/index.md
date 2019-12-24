@@ -5,12 +5,9 @@ title: "SUE, the Human in the Digital: Proposal"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: []
-categories: []
-date: 2019-12-20T09:22:16-05:00
-lastmod: 2019-12-20T09:22:16-05:00
-featured: false
-draft: false
+tags: [sex, sexuality, gender, sexual representation ]
+categories: [blog, theory]
+date: 2019-06-11T17:21:27+00:00
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,11 +25,9 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [SUE]
 ---
-Hello everyone &#8212; it&#8217;s been awhile since I updated this. I&#8217;ve been doing a lot! But it&#8217;s hard to explain or demonstrate. So I am posting this blog entry as a culmination of the three dozen or so things that I have been working towards. Enjoy!
-
-<hr class="wp-block-separator" />
+Hello everyone ! it's been awhile since I updated this. I've been doing a lot! But it's hard to explain or demonstrate. So I am posting this blog entry as a culmination of the three dozen or so things that I have been working towards. Enjoy!
 
 #### Introduction
 
@@ -56,9 +51,9 @@ A linked data vocabulary that can capture sexuality, broadly construed, can crea
 
 Classifying ‘sexuality broadly construed’ falls into three (fuzzy) main domains in my view: 
 
-  * sex, by which I mean biological, physical, assigned or preferred sex & physical activity of sex which 
-  * might or might not have participants who are sexually oriented or have sexual/romantic interests towards other participants and which 
-  * might or might not be captured/preserved/archived in some way, material which then becomes erotica.
+* sex, by which I mean biological, physical, assigned or preferred sex & physical activity of sex which 
+* might or might not have participants who are sexually oriented or have sexual/romantic interests towards other participants and which 
+* might or might not be captured/preserved/archived in some way, material which then becomes erotica.
 
 I abbreviate this as SUE (Sex/Uality & Erotica), which will be the name that this project takes.
 
@@ -72,8 +67,7 @@ The purpose of me beginning this proposal the way I did was to make this point: 
 
 In its final form the project that I am proposing will, at the very least take the form of the creation of a linked data vocabulary such as the one present at <http://homosaurus.org>. At its most refined form, it will take the form of a linked data enabled digital archive like the _Digital Transgender Archive_, _The Yellow Nineties, The Orlando Project_ and others. The impact of this project, in its final version is significant—it is about nonnormative, ‘weird,’ ‘queer’ and “perverse” bodies; it is about creating a place and space of justice for those bodies; and it is about drawing on the archives and past of humanity in order to allow for possible futures for digital humanity.  
 
-
-<hr class="wp-block-separator" />
+#### Footnotes
 
 [[i]](#_ednref1) Hopefully my sarcasm carries through here, but to be clear, I do not believe we ever lived in a world of original sexuality—the erotic human subject has always existed. Before Linnaeus and Hirschfield it was Catholic penitential manuals, which offered such a taxonomy, description and disclosure of sin (which is to say sexuality), that they were frequently mistaken for pornography itself (see _Regina v. Hicklin_ and the Comstock Laws), and the Catholic Church had to warn its priests to not allow the knowledge to fall into the wrong hands.  
   

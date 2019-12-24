@@ -7,10 +7,7 @@ summary: ""
 authors: [admin]
 tags: [etymology, history, sexuality, gender, sexuality, MORGAI (Marginalized Orientations, Relationships, Gender identities, And Intersex)]
 categories: [blog post, historical]
-date: 2019-12-20T09:22:55-05:00
-lastmod: 2019-12-20T09:22:55-05:00
-featured: false
-draft: false
+date: 2019-10-16T09:22:55-05:00
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -41,14 +38,13 @@ While some (quite silly) people declaim this sort of \& 'performative language' 
 
 Dictionary.com does note its very recent history
 
-![Dictionary.com](/static/img/Annotation.png) 
-[image is a screenshot of Dictionary.com's page here https://www.dictionary.com/e/gender-sexuality/folx/]
+![a screenshot of Dictionary.com's page here https://www.dictionary.com/e/gender-sexuality/folx/](/me/public/img/Annotation.png)
 
 This history is also copied here on Radical Copyeditors:
 
-[!RadicalCopyEditoronFolx](/static/img/RadicalCopyeditorREFolx.jpg)
+[!RadicalCopyEditor on the word Folx](/me/static/img/RadicalCopyeditorREFolx.jpg)
 
-These are both pointing to a more recent history, but the term is older, originating from BiNet and GirlFags BBSes, as WordSpy notes most accurately:
+These both point to a more recent history, but the term is actually older, originating from the BiNet and GirlFags BBSes, as WordSpy most accurately documents:
 
 > *I resent it that some queer folx (primarily non-choice gay or lesbian folx) think I would just deny my queerness at the first sign of inconvenience. —Clare, Queer By Choice, May 6, 2001*
 
